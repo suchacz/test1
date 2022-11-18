@@ -10,5 +10,5 @@ int main () {
     else {
         std::cout << "to nie jest rok przestepny\n"; 
     }
-    int a = 0
+    
 }
